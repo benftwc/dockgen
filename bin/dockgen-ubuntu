@@ -1,4 +1,6 @@
-#!/usr/bin/env node
+#!/usr/bin/env nodejs
+
+#On Ubuntu and derivated, node is nodejs
 
 var dockgen = require('..');
 
